@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Deanira's GitHub stats](https://github-readme-stats.vercel.app/api?username=deanira)](https://github.com/anuraghazra/github-readme-stats)
+![Deanira's GitHub stats](https://github-readme-stats.vercel.app/api?username=deanira&count_private=true)
 <!--
 **deanira/deanira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

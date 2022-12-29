@@ -5,3 +5,4 @@ My name's Deanira
 - 😄 Pronouns: she/her
 
 Say hi to me on [Twitter](https://twitter.com/deasolveserror)
+See my personal website at [deanira.github.io](https://deanira.github.io) (P.S. I'm still working on it :P)

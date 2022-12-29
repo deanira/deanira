@@ -1,19 +1,11 @@
 ### Hi there 👋
 
+My name's Deanira
+- 🌱 I’m currently learning Microservice, and Fullstack.
+- 😄 Pronouns: she/her
+
+Say hi to me on [Twitter](https://twitter.com/deasolveserror)
+
+My Github Stats
 ![Deanira's GitHub stats](https://github-readme-stats.vercel.app/api?username=deanira&count_private=true&show_icons=true&theme=graywhite)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deanira&langs_count=8&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**deanira/deanira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
